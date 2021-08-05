@@ -36,3 +36,11 @@ Nesta seção irei resumir os projetos de forma curta e exibir os principais con
 
 - Utilização da Cloud do Google para a execução de um programa simples de Python, que realizava a contagem de palavras em um determinado livro.
 - Foi realizada toda a configuração do cluster, VM, e armazenamento em nuvem.
+
+
+
+
+
+### Pandas + Python
+
+- Utilização de alguns conceitos de Pandas e de Python no tratamento de dados. Algumas filtragens, trabalho com dataframes e criação de gráficos simples.
