@@ -29,3 +29,10 @@ Nesta seção irei resumir os projetos de forma curta e exibir os principais con
 - Neste projeto foi utilizado um banco de dados de uma empresa, onde era comparado o valor do marketing em três diferentes áreas (TV, rádio e jornal) e o resultado no volume de vendas. 
 - A proposta deste projeto é a construção de um modelo de Machine Learning que conseguisse predizer qual o retorno de vendas em função do valor investido em cada uma das áreas de propaganda
 - Neste projeto foi aprendido tanto a análise exploratória dos dados, quanto a construção de dois modelos diferentes de ML (regressão linear e árvore de decisão)
+
+
+
+### Dataproc
+
+- Utilização da Cloud do Google para a execução de um programa simples de Python, que realizava a contagem de palavras em um determinado livro.
+- Foi realizada toda a configuração do cluster, VM, e armazenamento em nuvem.
